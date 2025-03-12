@@ -1,0 +1,128 @@
+{
+  "name": "home",
+  "type": "page",
+  "url": "/home",
+  "params": {},
+  "variables": [
+    {
+      "name": "a",
+      "type": "service",
+      "id": "service"
+    },
+    {
+      "name": "petgg",
+      "type": "open-api",
+      "id": "open-api"
+    }
+  ],
+  "children": [
+    {
+      "name": "global1",
+      "nodeName": "global1",
+      "elementId": "",
+      "attributes": [
+        {
+          "property": "data-id",
+          "value": "Zxuc1a"
+        }
+      ],
+      "classList": [],
+      "conditionalClasses": [],
+      "conditionalStyles": [],
+      "contentType": "text",
+      "displayExpression": "",
+      "events": {},
+      "iterate": {
+        "array": "",
+        "variable": "",
+        "trackByIndex": false
+      },
+      "styles": [],
+      "children": [],
+      "comments": "",
+      "type": "custom-component",
+      "expressions": []
+    },
+    {
+      "name": "global2",
+      "nodeName": "global2",
+      "elementId": "",
+      "attributes": [
+        {
+          "property": "data-id",
+          "value": "n6we7d"
+        }
+      ],
+      "classList": [],
+      "conditionalClasses": [],
+      "conditionalStyles": [],
+      "contentType": "text",
+      "displayExpression": "",
+      "events": {},
+      "iterate": {
+        "array": "",
+        "variable": "",
+        "trackByIndex": false
+      },
+      "styles": [],
+      "children": [],
+      "comments": "",
+      "type": "custom-component",
+      "expressions": []
+    },
+    {
+      "name": "a",
+      "nodeName": "a",
+      "elementId": "",
+      "attributes": [
+        {
+          "property": "data-id",
+          "value": "hKe6Q3"
+        }
+      ],
+      "classList": [],
+      "conditionalClasses": [],
+      "conditionalStyles": [],
+      "contentType": "text",
+      "displayExpression": "",
+      "events": {},
+      "iterate": {
+        "array": "",
+        "variable": "",
+        "trackByIndex": false
+      },
+      "styles": [],
+      "children": [],
+      "comments": "",
+      "type": "custom-component",
+      "expressions": []
+    },
+    {
+      "name": "b",
+      "nodeName": "b",
+      "elementId": "",
+      "attributes": [
+        {
+          "property": "data-id",
+          "value": "Lo2eOM"
+        }
+      ],
+      "classList": [],
+      "conditionalClasses": [],
+      "conditionalStyles": [],
+      "contentType": "text",
+      "displayExpression": "",
+      "events": {},
+      "iterate": {
+        "array": "",
+        "variable": "",
+        "trackByIndex": false
+      },
+      "styles": [],
+      "children": [],
+      "comments": "",
+      "type": "custom-component",
+      "expressions": []
+    }
+  ]
+}
